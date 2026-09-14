@@ -1,0 +1,27 @@
+const tomb=[
+    {
+        "nev":"Armando",
+        "kor":16,
+        "varos":"Hajdúhadház"
+    },
+    {
+        "nev":"Romárió",
+        "kor":17,
+        "varos":"Hajdúhadház"
+    },
+    {
+        "nev":"Béla",
+        "kor":18,
+        "varos":"Debrecen"
+    },
+    {
+        "nev":"Géza",
+        "kor":16,
+        "varos":"Hajdúbagos"
+    },   
+    {
+        "nev":"Kevin",
+        "kor":18,
+        "varos":"Ebesz"
+    }
+]
